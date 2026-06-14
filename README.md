@@ -16,10 +16,7 @@
 ## 🛠️ Skills (learning)
 - Python
 - -c#
-- Pandas
-- NumPy
 - Machine Learning basics
-- trader
 
 ---
 
