@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mohamad 👋
 
-<!--
-**mohamadabdelrahman845-arch/mohamadabdelrahman845-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst / Machine Learning Learner  
+📊 Currently learning Python & AI & c# 
+🏋️ Gym enthusiast / trader
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Build real-world projects
+- Master data analysis & machine learning
+- Work in tech 
+
+---
+
+## 🛠️ Skills (learning)
+- Python
+- -c#
+- Pandas
+- NumPy
+- Machine Learning basics
+- trader
+
+---
+
+## 📂 Projects
+- Coming soon...
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/mohamadabdelrahman845-arch
